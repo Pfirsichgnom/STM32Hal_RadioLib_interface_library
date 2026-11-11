@@ -1,13 +1,13 @@
 # STM32Hal_RadioLib_Interface_Library
 
-A simple library for interfacing the **SX1281 LoRa transceiver** with an **STM32 microcontroller** using the STM32 HAL.
+A simple library for interfacing the **SX1280 LoRa transceiver** with an **STM32 microcontroller** using the STM32 HAL.
 
 The library uses [RadioLib](https://github.com/jgromes/RadioLib) for LoRa radio communication.
 
 ## Features
 
 - Interface between STM32 HAL and RadioLib.
-- Support for the SX1281 LoRa transceiver.
+- Support for the SX1280 LoRa transceiver.
 - Designed for STM32 microcontrollers.
 - Simplifies the integration of RadioLib into STM32 projects.
 
@@ -28,7 +28,7 @@ The project describes the implementation and usage of the library.
 ## Hardware
 
 - STM32 microcontroller
-- SX1281 LoRa transceiver
+- SX1280 LoRa transceiver
 
 ## License
 
